@@ -1,0 +1,6 @@
+
+*.make
+*.internal
+*.marks
+*.check_cache
+Code_1/Makefile
